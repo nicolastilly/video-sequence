@@ -1,5 +1,7 @@
 # video sequence
 
+### Installation
+
 `npm install`
 
 ### Utilisation
