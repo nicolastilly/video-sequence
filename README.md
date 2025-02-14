@@ -1,4 +1,4 @@
-# video sequence
+# Video séquence
 
 ### Installation
 
